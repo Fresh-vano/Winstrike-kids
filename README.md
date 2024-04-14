@@ -127,7 +127,9 @@ docker-compose up
 
 
 
-https://github.com/vurkcah/999/assets/91368670/800c9c5e-f846-4a53-825a-78f371e2ef80
+
+https://github.com/Fresh-vano/Winstrike-kids/assets/74467916/bc57ae3c-4c43-493f-bae4-74a649f2868a
+
 
 
 
@@ -135,7 +137,7 @@ https://github.com/vurkcah/999/assets/91368670/800c9c5e-f846-4a53-825a-78f371e2e
 
 # Пример работы програмного модуля
 
-![gif](https://github.com/vurkcah/999/assets/91368670/d9f2ac12-05af-4251-af90-dbd3a23407e4)
+![gif](https://github.com/Fresh-vano/Winstrike-kids/assets/74467916/36c37fdb-3bc5-4a41-b9c7-9a5d97ddbf63)
 
 
 
